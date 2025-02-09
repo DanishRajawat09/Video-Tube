@@ -1,0 +1,17 @@
+{
+  "name": "video-tube",
+  "version": "1.0.0",
+  "description": "a youtube like project",
+  "keywords": [
+    "JS",
+    "BACKEND",
+    "DANISH"
+  ],
+  "license": "ISC",
+  "author": "DANISH-RAJAWAT",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
